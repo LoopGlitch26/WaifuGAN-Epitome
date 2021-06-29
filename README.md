@@ -10,4 +10,4 @@ PyTorch-Lightning + FID implementation:
 
 Comparision with PyTorch implementation:
 
-[V-PyTor](https://nbviewer.jupyter.org/github/LoopGlitch26/WaifuGAN-Epitome/blob/main/starter-anime-face-dataset.ipynb)
+[V-PyTor](https://nbviewer.jupyter.org/github/LoopGlitch26/WaifuGAN-Epitome/blob/main/vanilla-version-test.ipynb)
